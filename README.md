@@ -1,7 +1,6 @@
 ## 비재무 데이터를 활용한 중소기업 휴·폐업 예측
 ![Python3](https://img.shields.io/badge/Python-3.10-blue)
 ![Crawling](https://img.shields.io/badge/Crawling-Selenium-important)
-![HTML](https://img.shields.io/badge/FineTuning-Pycaret-black)
 ![RPA](https://img.shields.io/badge/AutoML-Optuna-red)
 
 신용평가사 NICE가 제공한 중소기업 개요 및 재무 데이터에 비재무 데이터를 수집 및 결합해 설명변수로 활용하여, </br>
